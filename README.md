@@ -20,4 +20,4 @@ See Contributing.md
 
 ## License
 
-As a developer you can modify content of the project. But you are required not to use any of the component in any other project without permission from company.
+As a developer you can modify content of the project.
